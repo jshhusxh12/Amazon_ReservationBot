@@ -1,0 +1,4 @@
+discord
+discord.py
+colorama
+sqlite3
